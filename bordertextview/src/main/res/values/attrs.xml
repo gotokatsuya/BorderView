@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="BorderTextView">
+        <attr name="borderWidth" format="integer" />
+        <attr name="borderColor" format="color" />
+        <attr name="borderLeft" format="boolean" />
+        <attr name="borderTop" format="boolean" />
+        <attr name="borderRight" format="boolean" />
+        <attr name="borderBottom" format="boolean" />
+    </declare-styleable>
+
+</resources>
